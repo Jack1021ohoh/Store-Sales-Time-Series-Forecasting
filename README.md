@@ -2,7 +2,7 @@
 
 ---
 ### Description
-This is a time series forecasting exercise using store sales data. I used machine learning models, such as ARIMA, Exponential smoothing, and deep learning models, such as LSTM, Neural Hierarchical Interpolation for Time Series (NHITS), Temporal Fusion Transformer(TFT), to predict future store sales. Moreover, I used Optuna to optimize models' hyperparameters.
+This project focuses on time series forecasting using store sales data. I employed a range of machine learning and deep learning models to predict future sales, including ARIMA, Exponential Smoothing, LSTM, Neural Hierarchical Interpolation for Time Series (NHITS), and Temporal Fusion Transformer (TFT). To enhance model performance, I utilized Optuna for hyperparameter optimization.
 
 ---
 ### Data Source
